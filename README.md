@@ -1,33 +1,43 @@
-# 🛠️ Service Management System
+# Service Management System
 
-A web-based service management application built using **PHP and MySQL** that allows users to book services, manage availability, and handle service workflows through role-based dashboards.
+A web-based Service Management System built using **PHP and MySQL**.
+This application helps manage service requests, users, and service status
+in an organized and efficient way.
+
+This project was developed as part of my learning journey to understand
+backend development, database integration, and CRUD operations.
 
 ---
 
 ## 🚀 Features
 
-- User authentication (Login & Register)
-- Role-based dashboards (Admin, Worker, Customer)
-- Service booking and management
-- Worker availability management
-- Booking status updates
+- User authentication (Login & Signup)
+- Service request creation
+- Service status tracking
+- Admin/service management
+- Basic dashboard interface
+- Secure database connectivity
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- Frontend: HTML, CSS
-- Backend: PHP
-- Database: MySQL
-- Server: XAMPP (Apache)
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Server:** XAMPP / WAMP
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
 ## ⚙️ How to Run Locally
 
-1. Install XAMPP
-2. Start Apache & MySQL
-3. Copy project to `htdocs`
-4. Import `database.sql` into phpMyAdmin
-5. Open browser and visit:
+1. Clone the repository
+   ```bash
+   git clone https://github.com/krishnasai2509-bot/service-management-system.git
+
 
