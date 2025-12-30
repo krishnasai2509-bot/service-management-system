@@ -31,6 +31,16 @@ backend development, database integration, and CRUD operations.
 
 ## 📂 Project Structure
 
+service-management-system/
+├── admin-panel/
+├── user-panel/
+├── includes/
+├── assets/
+├── db/
+├── index.php
+├── login.php
+└── README.md
+
 
 ---
 
@@ -39,5 +49,4 @@ backend development, database integration, and CRUD operations.
 1. Clone the repository
    ```bash
    git clone https://github.com/krishnasai2509-bot/service-management-system.git
-
 
